@@ -1,133 +1,133 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://rtos_yuan.gitee.io/oh_app#/01-OrangeShopping-request-permissions</loc>
+    <loc>https://kennethzhu.github.io/OpenHarmonyAppBestPractice/#/01-OrangeShopping-request-permissions</loc>
     <lastmod>2023-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://rtos_yuan.gitee.io/oh_app#/02-OrangeShopping-qr-code</loc>
+    <loc>https://kennethzhu.github.io/OpenHarmonyAppBestPractice/#/02-OrangeShopping-qr-code</loc>
     <lastmod>2023-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://rtos_yuan.gitee.io/oh_app#/03-OrangeShopping-swiper</loc>
+    <loc>https://kennethzhu.github.io/OpenHarmonyAppBestPractice/#/03-OrangeShopping-swiper</loc>
     <lastmod>2023-08-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://rtos_yuan.gitee.io/oh_app#/04-OrangeShopping-NavigationPage</loc>
+    <loc>https://kennethzhu.github.io/OpenHarmonyAppBestPractice/#/04-OrangeShopping-NavigationPage</loc>
     <lastmod>2023-08-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://rtos_yuan.gitee.io/oh_app#/05-OrangeShopping-CustomDialog</loc>
+    <loc>https://kennethzhu.github.io/OpenHarmonyAppBestPractice/#/05-OrangeShopping-CustomDialog</loc>
     <lastmod>2023-08-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://rtos_yuan.gitee.io/oh_app#/06-OrangeShopping-state-management</loc>
+    <loc>https://kennethzhu.github.io/OpenHarmonyAppBestPractice/#/06-OrangeShopping-state-management</loc>
     <lastmod>2023-08-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://rtos_yuan.gitee.io/oh_app#/07-OrangeShopping-README_photo</loc>
+    <loc>https://kennethzhu.github.io/OpenHarmonyAppBestPractice/#/07-OrangeShopping-README_photo</loc>
     <lastmod>2023-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://rtos_yuan.gitee.io/oh_app#/08-OrangeShopping-README_live</loc>
+    <loc>https://kennethzhu.github.io/OpenHarmonyAppBestPractice/#/08-OrangeShopping-README_live</loc>
     <lastmod>2023-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://rtos_yuan.gitee.io/oh_app#/09-OrangeShopping-build-har-and-import</loc>
+    <loc>https://kennethzhu.github.io/OpenHarmonyAppBestPractice/#/09-OrangeShopping-build-har-and-import</loc>
     <lastmod>2023-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://rtos_yuan.gitee.io/oh_app#/docs-template</loc>
+    <loc>https://kennethzhu.github.io/OpenHarmonyAppBestPractice/#/docs-template</loc>
     <lastmod>2023-08-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://rtos_yuan.gitee.io/oh_app#/perf_01_inspector</loc>
+    <loc>https://kennethzhu.github.io/OpenHarmonyAppBestPractice/#/perf_01_inspector</loc>
     <lastmod>2023-08-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://rtos_yuan.gitee.io/oh_app#/perf_02_aot</loc>
+    <loc>https://kennethzhu.github.io/OpenHarmonyAppBestPractice/#/perf_02_aot</loc>
     <lastmod>2023-08-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://rtos_yuan.gitee.io/oh_app#/perf_03_list_lazyforeach</loc>
+    <loc>https://kennethzhu.github.io/OpenHarmonyAppBestPractice/#/perf_03_list_lazyforeach</loc>
     <lastmod>2023-08-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://rtos_yuan.gitee.io/oh_app#/perf_04_list_render</loc>
+    <loc>https://kennethzhu.github.io/OpenHarmonyAppBestPractice/#/perf_04_list_render</loc>
     <lastmod>2023-08-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://rtos_yuan.gitee.io/oh_app#/perf_05_reuse</loc>
+    <loc>https://kennethzhu.github.io/OpenHarmonyAppBestPractice/#/perf_05_reuse</loc>
     <lastmod>2023-08-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://rtos_yuan.gitee.io/oh_app#/_coverpage</loc>
+    <loc>https://kennethzhu.github.io/OpenHarmonyAppBestPractice/#/_coverpage</loc>
     <lastmod>2023-07-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://rtos_yuan.gitee.io/oh_app#/_navbar</loc>
+    <loc>https://kennethzhu.github.io/OpenHarmonyAppBestPractice/#/_navbar</loc>
     <lastmod>2023-08-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://rtos_yuan.gitee.io/oh_app#/_sidebar</loc>
+    <loc>https://kennethzhu.github.io/OpenHarmonyAppBestPractice/#/_sidebar</loc>
     <lastmod>2023-08-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://rtos_yuan.gitee.io/oh_app#/ConcurrentModule/taskpool</loc>
+    <loc>https://kennethzhu.github.io/OpenHarmonyAppBestPractice/#/ConcurrentModule/taskpool</loc>
     <lastmod>2023-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://rtos_yuan.gitee.io/oh_app#/ConcurrentModule/worker</loc>
+    <loc>https://kennethzhu.github.io/OpenHarmonyAppBestPractice/#/ConcurrentModule/worker</loc>
     <lastmod>2023-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://rtos_yuan.gitee.io/oh_app#/OrangeShopping/03-swiper/03-swiper</loc>
+    <loc>https://kennethzhu.github.io/OpenHarmonyAppBestPractice/#/OrangeShopping/03-swiper/03-swiper</loc>
     <lastmod>2023-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://rtos_yuan.gitee.io/oh_app#/questions/sample_qa</loc>
+    <loc>https://kennethzhu.github.io/OpenHarmonyAppBestPractice/#/questions/sample_qa</loc>
     <lastmod>2023-07-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
