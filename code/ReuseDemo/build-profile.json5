@@ -1,0 +1,48 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "material": {
+          "certpath": "C:\\Users\\zhushangyuan\\.ohos\\config\\openharmony\\auto_ohos_default_ReuseDemo_com.example.reusedemo.cer",
+          "storePassword": "00000018AA5D5F5CED39ECA4F1D80F7A07810D836EB4334928F95AA956896206EF01AC9805C54B97",
+          "keyAlias": "debugKey",
+          "keyPassword": "00000018426F0A11965F41CF1FF83378893AD571C2487B8B8FE6BC8DE3A2406B6FF1FF86F81E01FE",
+          "profile": "C:\\Users\\zhushangyuan\\.ohos\\config\\openharmony\\auto_ohos_default_ReuseDemo_com.example.reusedemo.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\zhushangyuan\\.ohos\\config\\openharmony\\auto_ohos_default_ReuseDemo_com.example.reusedemo.p12"
+        }
+      }
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compileSdkVersion": 10,
+        "compatibleSdkVersion": 10
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}

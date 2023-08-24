@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /assets/ 
+Disallow: /static/ 
+Disallow: /plugin/
+Sitemap: https://rtos_yuan.gitee.io/oh_app/sitemap.xml

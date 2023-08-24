@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
+    <meta name="description" content="OpenHarmony应用开发范例">
+    <meta name="msvalidate.01" content="7C070C908A97997300701FA651DEB604" />
+    <title>OpenHarmony应用开发范例</title>
+    <link rel="stylesheet" href="https://rtos_yuan.gitee.io/jsdelivr/scripts/docsify-themeable@0/dist/css/theme-simple.css" title="Simple">
+
+   <link rel="icon" href="images/favicon.ico">
+    <style>
+        :root{
+            --docsify-example-panels-left-panel-width : 50%;
+            --docsify-example-panels-right-panel-width : 50%;
+        }
+    </style>
+</head>
+<body>
+  <div id="app">Please wait...</div>
+  <script>
+    window.$docsify = {
+      name: 'OpenHarmony应用开发范例',
+      repo: '',
+      relativePath: false,
+      search: {
+        noData: {
+          '/': 'No results!'
+        },
+        depth: 6,
+        paths: 'auto',
+        placeholder: {
+          '/': 'Search'
+        }
+      },      
+      loadSidebar: 'sidebar.md',
+      loadNavbar: 'navbar.md',
+      // loadSidebar: true,
+      // loadNavbar: true,
+      subMaxLevel: 4,
+      coverpage: false,
+      onlyCover: true,
+      requestHeaders: {
+        'cache-control': 'max-age=600',
+      },
+      plugins: [
+          function (hook, vm) {
+            hook.beforeEach(html => {
+              url = 'https://gitee.com/rtos_yuan/oh_app/tree/master/docs/' + vm.route.file;
+              const editHtml = '[:memo: 编辑本文](' + url + ')\n';
+              return (
+                editHtml +
+                html +
+                '\n\n----\n\n' +
+                '<a href="https://gitee.com/openharmony/applications_app_samples" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;">|&nbsp;OpenHarmony Samples&nbsp;|&nbsp;</a>'
+				+'<a href="#/sidebar" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;">SiteMap&nbsp;|</a>'
+              );
+            });
+          },
+        ],
+    }
+  </script>
+  <script>
+        // Fix regex matching self-demo code snippets
+        function pluginSync(hook, vm) {
+            hook.ready(function() {
+                Array.prototype.map.call(document.getElementsByTagName('span'), i => { 
+                    i.innerText = i.innerText.replace(/&nbsp;/g, " ")
+                });
+            });
+        }
+        $docsify.plugins = [].concat($docsify.plugins, pluginSync);
+    </script>
+    <script src="https://rtos_yuan.gitee.io/jsdelivr/scripts/docsify@4.js"></script>
+    <script src="https://rtos_yuan.gitee.io/jsdelivr/scripts/docsify-themeable@0.js"></script>
+    <script src="https://rtos_yuan.gitee.io/jsdelivr/scripts/docsify-copy-code@2.js"></script>
+    <script src="https://rtos_yuan.gitee.io/jsdelivr/scripts/docsify-tabs@1.js"></script>
+    <script src="https://rtos_yuan.gitee.io/jsdelivr/scripts/docsify@4/lib/plugins/external-script.min.js"></script>
+    <script src="https://rtos_yuan.gitee.io/jsdelivr/scripts/docsify@4/lib/plugins/search.js"></script>
+    <script src="https://rtos_yuan.gitee.io/jsdelivr/scripts/class-change@1.js"></script>
+    <script src="https://rtos_yuan.gitee.io/jsdelivr/scripts/docsify-example-panels@1.js"></script>
+
+</body>
+</html>
